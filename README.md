@@ -52,4 +52,4 @@ Explore the project here: [GitHub Repository](https://github.com/NagdevHarsh/SQL
 
 ---
 
-✅ If you find this project helpful, don’t forget to ⭐ star the repo and connect on [LinkedIn](https://www.linkedin.com/in/nagdevharsh) for more updates!
+✅ If you find this project helpful, don’t forget to ⭐ star the repo and connect on [LinkedIn](https://www.linkedin.com/in/nagdev-harsh) for more updates!
